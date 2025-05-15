@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+pydantic
+requests
+beautifulsoup4
+pandas
+python-dotenv
